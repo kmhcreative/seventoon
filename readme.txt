@@ -12,7 +12,7 @@ Tags: one-column, two-columns, right-sidebar, flexible-header, accessibility-rea
 
 SevenToon is a fork of the default "Twenty Seventeen" theme designed specifically with webcomics in mind. It works with multiple comic management plugins but can also simply use regular posts as comics. It features a distraction-free vertical reading mode for comic archives.
 
-For more information about SevenToon please go to https://kmhcrative.com/SevenToon.
+For more information about SevenToon please go to https://www.kmhcreative.com/seventoon.
 
 == Installation ==
 
@@ -20,7 +20,7 @@ For more information about SevenToon please go to https://kmhcrative.com/SevenTo
 2. In your admin panel, go to Appearance -> Themes and click the 'Add New' button.
 3. Browse to the ZIP file you downloaded and upload it to WordPress.
 3. Click on the 'Activate' button to use your new theme right away.
-4. Go to https://www.kmhcreative.com/labs/seventoon/ for a guide on how to customize this theme.
+4. Go to https://www.kmhcreative.com/seventoon/ for a guide on how to customize this theme.
 5. Navigate to Appearance > Customize in your admin panel and customize to taste.
 
 == Copyright ==
